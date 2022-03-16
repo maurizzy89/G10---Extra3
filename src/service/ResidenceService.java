@@ -4,8 +4,8 @@ import entity.Residence;
 
 public final class ResidenceService extends NonHotelAccommodationService {
 
-    @Override
     public Residence create() {
+        super.create();
         Residence residencia = new Residence();
 
         residencia.setNumberOfRooms(read.nextDouble());

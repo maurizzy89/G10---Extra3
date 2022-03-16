@@ -4,8 +4,8 @@ import entity.Camping;
 
 public final class CampingService extends NonHotelAccommodationService {
 
-    @Override
     public Camping create() {
+        super.create();
         Camping camping = new Camping();
         camping.setMaxCapacityTent(read.nextDouble());
         camping.setAmountBathroomsAvailables(read.nextDouble());

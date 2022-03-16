@@ -2,23 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Hotel.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/ResidenceService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Camping.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/NonHotelAccommodation.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/NonHotelAccommodationService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/HotelService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Residence.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/AccommodationService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/Hotel4StarsService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/main/TouristPromotionsCompany.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Hotel4Stars.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/Hotel5StarsService.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/utility/Comparators.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Accommodation.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/entity/Hotel5Stars.java</file>
-            <file>file:/C:/Users/Maurizzy/Documents/NetBeansProjects/G10%20-%20Extra3/src/service/CampingService.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

@@ -49,7 +49,6 @@ public class AccommodationService {
         alojamientos.add(residencia1);
         alojamientos.add(residencia2);
         alojamientos.addAll(hoteles);
-        ;
     }
 
     public void startMenu() {

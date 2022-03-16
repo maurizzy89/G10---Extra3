@@ -4,8 +4,8 @@ import entity.Hotel;
 
 public class HotelService extends AccommodationService {
 
-    @Override
     public Hotel create() {
+        super.create();
         Hotel hotel = new Hotel();
 
         hotel.setNumberOfRooms(read.nextDouble());

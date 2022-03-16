@@ -6,8 +6,8 @@ public class Hotel5StarsService extends Hotel4StarsService {
 
     private Hotel5Stars hotel5Estrellas = new Hotel5Stars();
 
-    @Override
     public Hotel5Stars create() {
+        super.create();
         hotel5Estrellas.setNumberOfConferenceSalons(read.nextDouble());
         hotel5Estrellas.setNumberOfLimousines(read.nextDouble());
         hotel5Estrellas.setNumberOfSuites(read.nextDouble());
